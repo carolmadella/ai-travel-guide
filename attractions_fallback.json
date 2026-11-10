@@ -1,0 +1,269 @@
+{
+  "note": "Small backup dataset, used only when OpenStreetMap is unavailable. Coordinates are approximate.",
+  "cities": [
+    {
+      "city": "Chicago",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "attractions": [
+        {
+          "name": "Art Institute of Chicago",
+          "category": "museum",
+          "latitude": 41.8796,
+          "longitude": -87.6237
+        },
+        {
+          "name": "Field Museum",
+          "category": "museum",
+          "latitude": 41.8663,
+          "longitude": -87.617
+        },
+        {
+          "name": "Millennium Park",
+          "category": "park",
+          "latitude": 41.8826,
+          "longitude": -87.6226
+        },
+        {
+          "name": "Lincoln Park",
+          "category": "park",
+          "latitude": 41.9214,
+          "longitude": -87.6336
+        },
+        {
+          "name": "Navy Pier",
+          "category": "attraction",
+          "latitude": 41.8917,
+          "longitude": -87.6043
+        },
+        {
+          "name": "Skydeck Chicago (Willis Tower)",
+          "category": "viewpoint",
+          "latitude": 41.8789,
+          "longitude": -87.6359
+        },
+        {
+          "name": "Chicago Water Tower",
+          "category": "historic",
+          "latitude": 41.8972,
+          "longitude": -87.6245
+        }
+      ]
+    },
+    {
+      "city": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "attractions": [
+        {
+          "name": "The Metropolitan Museum of Art",
+          "category": "museum",
+          "latitude": 40.7794,
+          "longitude": -73.9632
+        },
+        {
+          "name": "American Museum of Natural History",
+          "category": "museum",
+          "latitude": 40.7813,
+          "longitude": -73.974
+        },
+        {
+          "name": "Central Park",
+          "category": "park",
+          "latitude": 40.7829,
+          "longitude": -73.9654
+        },
+        {
+          "name": "Statue of Liberty",
+          "category": "historic",
+          "latitude": 40.6892,
+          "longitude": -74.0445
+        },
+        {
+          "name": "Brooklyn Bridge",
+          "category": "historic",
+          "latitude": 40.7061,
+          "longitude": -73.9969
+        },
+        {
+          "name": "Empire State Building Observatory",
+          "category": "viewpoint",
+          "latitude": 40.7484,
+          "longitude": -73.9857
+        }
+      ]
+    },
+    {
+      "city": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "attractions": [
+        {
+          "name": "Louvre Museum",
+          "category": "museum",
+          "latitude": 48.8606,
+          "longitude": 2.3376
+        },
+        {
+          "name": "Musée d'Orsay",
+          "category": "museum",
+          "latitude": 48.86,
+          "longitude": 2.3266
+        },
+        {
+          "name": "Eiffel Tower",
+          "category": "attraction",
+          "latitude": 48.8584,
+          "longitude": 2.2945
+        },
+        {
+          "name": "Jardin du Luxembourg",
+          "category": "park",
+          "latitude": 48.8462,
+          "longitude": 2.3372
+        },
+        {
+          "name": "Arc de Triomphe",
+          "category": "historic",
+          "latitude": 48.8738,
+          "longitude": 2.295
+        },
+        {
+          "name": "Sacré-Cœur Basilica (Montmartre)",
+          "category": "viewpoint",
+          "latitude": 48.8867,
+          "longitude": 2.3431
+        }
+      ]
+    },
+    {
+      "city": "London",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "attractions": [
+        {
+          "name": "British Museum",
+          "category": "museum",
+          "latitude": 51.5194,
+          "longitude": -0.127
+        },
+        {
+          "name": "Natural History Museum",
+          "category": "museum",
+          "latitude": 51.4967,
+          "longitude": -0.1764
+        },
+        {
+          "name": "Hyde Park",
+          "category": "park",
+          "latitude": 51.5073,
+          "longitude": -0.1657
+        },
+        {
+          "name": "Tower of London",
+          "category": "historic",
+          "latitude": 51.5081,
+          "longitude": -0.0759
+        },
+        {
+          "name": "Westminster Abbey",
+          "category": "historic",
+          "latitude": 51.4993,
+          "longitude": -0.1273
+        },
+        {
+          "name": "London Eye",
+          "category": "viewpoint",
+          "latitude": 51.5033,
+          "longitude": -0.1196
+        }
+      ]
+    },
+    {
+      "city": "Rome",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "attractions": [
+        {
+          "name": "Vatican Museums",
+          "category": "museum",
+          "latitude": 41.9065,
+          "longitude": 12.4536
+        },
+        {
+          "name": "Capitoline Museums",
+          "category": "museum",
+          "latitude": 41.893,
+          "longitude": 12.4828
+        },
+        {
+          "name": "Villa Borghese",
+          "category": "park",
+          "latitude": 41.9142,
+          "longitude": 12.4923
+        },
+        {
+          "name": "Colosseum",
+          "category": "historic",
+          "latitude": 41.8902,
+          "longitude": 12.4922
+        },
+        {
+          "name": "Pantheon",
+          "category": "historic",
+          "latitude": 41.8986,
+          "longitude": 12.4769
+        },
+        {
+          "name": "Trevi Fountain",
+          "category": "attraction",
+          "latitude": 41.9009,
+          "longitude": 12.4833
+        }
+      ]
+    },
+    {
+      "city": "Boston",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "attractions": [
+        {
+          "name": "Old State House",
+          "category": "historic",
+          "latitude": 42.3587,
+          "longitude": -71.0575
+        },
+        {
+          "name": "Faneuil Hall",
+          "category": "historic",
+          "latitude": 42.36,
+          "longitude": -71.0568
+        },
+        {
+          "name": "Paul Revere House",
+          "category": "historic",
+          "latitude": 42.3637,
+          "longitude": -71.0537
+        },
+        {
+          "name": "USS Constitution",
+          "category": "historic",
+          "latitude": 42.3725,
+          "longitude": -71.0566
+        },
+        {
+          "name": "Museum of Fine Arts",
+          "category": "museum",
+          "latitude": 42.3394,
+          "longitude": -71.094
+        },
+        {
+          "name": "Boston Common",
+          "category": "park",
+          "latitude": 42.355,
+          "longitude": -71.0656
+        }
+      ]
+    }
+  ]
+}
