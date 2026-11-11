@@ -404,6 +404,10 @@ def run_tool(name, arguments):
         return json.dumps({"error": f"Unknown tool '{name}'."})
     except ValueError as error:
         return json.dumps({"error": f"Invalid arguments for {name}: {error}"})
+    except Exception as error:
+        # Safety net: any problem we did not expect becomes an error message
+        # for the AI, so one broken tool can never crash the whole agent
+        return json.dumps({"error": f"The {name} tool failed unexpectedly ({type(error).__name__})."})
 
 
 # Test the tools on their own, without the AI: python travel_tools.py
